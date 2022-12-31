@@ -8,3 +8,4 @@ if 1 <= len(s) <= 15:
         else:
             result = result + roman[s[i]]
 print(result)
+print(result)
